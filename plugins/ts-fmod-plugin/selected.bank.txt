@@ -1,7 +1,10 @@
 edgt_catc_marine
 caterpillar_c15_stock_rm
 brake.effects
-retarder
 park_brake
+stick_blinker
+reverse
+retarder
 air_compressor
 air_horns
+gear_grind

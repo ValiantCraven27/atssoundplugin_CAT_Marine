@@ -4,3 +4,4 @@ brake.effects
 retarder
 park_brake
 air_compressor
+air_horns

@@ -2,3 +2,5 @@ edgt_catc_marine
 caterpillar_c15_stock_rm
 brake.effects
 retarder
+park_brake
+air_compressor
